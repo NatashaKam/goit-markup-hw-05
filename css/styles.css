@@ -155,7 +155,6 @@ body {
   background-color: var(--accent-color);
   border-radius: 2px;
   position: absolute;
-  transform: translateY(2px);
   bottom: -1px;
 }
 
